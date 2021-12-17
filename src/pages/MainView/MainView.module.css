@@ -1,0 +1,15 @@
+.cardsContainer {
+  display: flex;
+  width: 100%;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.lastAdded {
+  box-shadow: inset 5px 5px 15px 12px lightgreen;
+  padding: 10px;
+  border-radius: 10px;
+}

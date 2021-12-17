@@ -2,3 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+body {
+  background: lightblue;
+}
+
+.hideYear .ant-picker-header {
+  display: none !important;
+}
